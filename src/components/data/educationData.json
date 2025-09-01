@@ -1,0 +1,28 @@
+{
+  "educationData": [
+    {
+      "type": "B.tech",
+      "value": "btech"
+    },
+    {
+      "type": "BCA",
+      "value": "bca"
+    },
+    {
+      "type": "Bsc",
+      "value": "bsc"
+    },
+    {
+      "type": "MBA",
+      "value": "mba"
+    },
+    {
+      "type": "Diploma",
+      "value": "dp"
+    },
+    {
+      "type": "undergrade",
+      "value": "ud"
+    }
+  ]
+}

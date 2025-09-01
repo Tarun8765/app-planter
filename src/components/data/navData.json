@@ -1,0 +1,50 @@
+{
+  "headerNav": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "About",
+      "href": "/about"
+    },
+    {
+      "text": "Services",
+      "href": "/services"
+    },
+    {
+      "text": "Blog",
+      "href": "/blogs"
+    },
+    {
+      "text": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "footerNav": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "About",
+      "href": "/about"
+    },
+    {
+      "text": "Services",
+      "href": "/services"
+    },
+    {
+      "text": "Blog",
+      "href": "/blogs"
+    },
+    {
+      "text": "Contact",
+      "href": "/contact"
+    },
+    {
+      "text": "Career",
+      "href": "/career"
+    }
+  ]
+}

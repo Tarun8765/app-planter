@@ -1,0 +1,24 @@
+{
+  "jobData": [
+    {
+      "role": "Human Resource",
+      "value": "hr"
+    },
+    {
+      "role": "Software Developer",
+      "value": "sd"
+    },
+    {
+      "role": "Finance",
+      "value": "fn"
+    },
+    {
+      "role": "Frontend Developer",
+      "value": "fd"
+    },
+    {
+      "role": "Backend Developer",
+      "value": "bd"
+    }
+  ]
+}

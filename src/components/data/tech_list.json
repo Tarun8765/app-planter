@@ -1,0 +1,49 @@
+{
+  "tech_list": [
+    {
+      "tech_name": "HTML"
+    },
+    {
+      "tech_name": "CSS"
+    },
+    {
+      "tech_name": "JS"
+    },
+    {
+      "tech_name": "React"
+    },
+    {
+      "tech_name": "Node"
+    },
+    {
+      "tech_name": "Python"
+    },
+    {
+      "tech_name": "Java"
+    },
+    {
+      "tech_name": "Php"
+    },
+    {
+      "tech_name": "Angular"
+    },
+    {
+      "tech_name": "Vue"
+    },
+    {
+      "tech_name": "Git"
+    },
+    {
+      "tech_name": "GitHub"
+    },
+    {
+      "tech_name": "npm"
+    },
+    {
+      "tech_name": "Qube"
+    },
+    {
+      "tech_name": "Puzzle"
+    }
+  ]
+}

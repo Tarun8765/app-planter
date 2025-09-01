@@ -1,0 +1,20 @@
+{
+  "image_Url": [
+    { "url": "../../images/one-2.jpg" },
+    { "url": "../../images/two-1.jpg" },
+    { "url": "../../images/three-1.jpg" },
+    { "url": "../../images/four-1.jpg" },
+    { "url": "../../images/five-1.jpg" },
+    { "url": "../../images/six-1.jpg" },
+    { "url": "../../images/seven-1.jpg" },
+    { "url": "../../images/eight-1.jpg" }
+  ],
+  "icon_url": [
+    { "url": "../../images/three-1.jpg" },
+    { "url": "../../images/four-1.jpg" },
+    { "url": "../../images/five-1.jpg" },
+    { "url": "../../images/six-1.jpg" },
+    { "url": "../../images/seven-1.jpg" },
+    { "url": "../../images/eight-1.jpg" }
+  ]
+}

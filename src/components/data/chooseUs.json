@@ -1,0 +1,24 @@
+{
+  "chooseUs": [
+    {
+      "count": "01",
+      "heading_4": "Product Design",
+      "text": "Our product design service lets you prototype, test and validate your ideas."
+    },
+    {
+      "count": "02",
+      "heading_4": "Development",
+      "text": "Our product design service lets you prototype, test and validate your ideas."
+    },
+    {
+      "count": "03",
+      "heading_4": "Data Analytics",
+      "text": "Our product design service lets you prototype, test and validate your ideas."
+    },
+    {
+      "count": "04",
+      "heading_4": "Cyber Security",
+      "text": "Our product design service lets you prototype, test and validate your ideas."
+    }
+  ]
+}

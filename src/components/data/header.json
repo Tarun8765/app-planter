@@ -1,0 +1,24 @@
+{
+  "socialLinks": [
+    {
+      "link": "/facebook.com",
+      "icon": "facebook"
+    },
+    {
+      "link": "/whatsapp.com",
+      "icon": "whatsapp"
+    },
+    {
+      "link": "/twitter.com",
+      "icon": "twitter"
+    },
+    {
+      "link": "/linkedin.com",
+      "icon": "linkedin"
+    },
+    {
+      "link": "/instagram.com",
+      "icon": "instagram"
+    }
+  ]
+}

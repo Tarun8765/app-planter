@@ -1,0 +1,19 @@
+{
+  "favicaonLinks": [
+    {
+      "fa_linkName": "fa-facebook"
+    },
+    {
+      "fa_linkName": "fa-whatsapp"
+    },
+    {
+      "fa_linkName": "fa-instagram"
+    },
+    {
+      "fa_linkName": "fa-twitter"
+    },
+    {
+      "fa_linkName": "fa-linkedin"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "addressData": [
+    {
+      "icon": "public",
+      "heading": "Our Address:",
+      "subHeading": " D Block, Sector 6, Noida, Uttar Pradesh, 201301"
+    },
+    {
+      "icon": "mail",
+      "heading": "Our MailBox:",
+      "subHeading": "info@appplanter.com"
+    },
+    {
+      "icon": "phone_in_talk",
+      "heading": "Our Phone",
+      "subHeading": "+91-8115457797"
+    }
+  ]
+}
