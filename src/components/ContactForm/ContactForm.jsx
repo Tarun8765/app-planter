@@ -1,7 +1,16 @@
 import Inputs from "./Inputs";
 import Button from "../common/Button";
 import Textarea from "../FormInputs/Textarea";
+import { useState } from "react";
 function Contact_form() {
+  const [formData, SetFormData] = useState({
+    name: "",
+    email: "",
+  });
+
+  function handleInput() {
+    return;
+  }
   return (
     <>
       <div className="contact_form">
@@ -21,6 +30,8 @@ function Contact_form() {
             placeholder={"Your Name*"}
             name={"name"}
             type={"text"}
+            value={formData.name}
+            onChange={handleInput}
           />
           <Inputs
             divClass={"mb-3"}
@@ -29,6 +40,8 @@ function Contact_form() {
             placeholder={"Your Email*"}
             name={"email"}
             text={"email"}
+            value={formData.email}
+            onChange={handleInput}
           />
           <div className="mb-3">
             <textarea
@@ -36,6 +49,7 @@ function Contact_form() {
               rows="5"
               id="comment"
               name="text"
+              onChange={handleInput}
               placeholder="Message..."
             ></textarea>
           </div>
@@ -51,7 +65,7 @@ function Contact_form() {
             className={"border-0 text-black px-5 py-3"}
           />
           <button type="submit" className="btn form_submit_btn">
-            Send Message
+            Send Message...
           </button>
         </form>
       </div>
