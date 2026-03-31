@@ -3,9 +3,11 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import "bootstrap";
-
+import { HelmetProvider } from "react-helmet-async";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <BrowserRouter>
-    <App />
-  </BrowserRouter>
+    <HelmetProvider>
+      <App />
+    </HelmetProvider>
+  </BrowserRouter>,
 );

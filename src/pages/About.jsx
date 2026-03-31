@@ -2,7 +2,7 @@ import BannerSection from "../components/common/BannerSection";
 import AboutService from "../components/AboutSections/AboutService";
 import AboutContact from "../components/AboutSections/AboutContact";
 import AboutActualDo from "../components/AboutSections/AboutActualDo";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 function About() {
   return (
     <>

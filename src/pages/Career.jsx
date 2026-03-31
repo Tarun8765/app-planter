@@ -1,7 +1,7 @@
 import Heading_title from "../components/HeadingTitle/Heading_title";
 import BannerSection from "../components/common/BannerSection";
 import CareerForm from "../components/CareerSection/CareerForm";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import React from "react";
 
 function Career() {

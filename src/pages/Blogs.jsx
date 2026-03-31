@@ -1,6 +1,6 @@
 import BannerSection from "../components/common/BannerSection";
 import BlogSection from "../components/HomeSections/BlogSection";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 
 function Blogs() {
   return (

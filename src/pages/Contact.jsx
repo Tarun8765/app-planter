@@ -2,7 +2,7 @@ import "../App.css";
 import BannerSection from "../components/common/BannerSection";
 import ContactMap from "../components/ContactSections/ContactMap";
 import ContactUS from "../components/ContactSections/ContactUS";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 function Contact() {
   return (
     <>

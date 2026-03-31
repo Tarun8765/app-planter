@@ -1,5 +1,5 @@
 import BannerSection from "../components/common/BannerSection/";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 function Services() {
   return (
     <>
@@ -7,7 +7,7 @@ function Services() {
         <title>Our Services | App Planter Technologies</title>
         <meta
           name="description"
-          content="Explore App Planter Technologies’ services including web development, mobile applications, UI/UX design, QA testing, IT consultancy, and full-stack solutions for businesses."
+          content="Explore App Planter Technologies' services including web development, mobile applications, UI/UX design, QA testing, IT consultancy, and full-stack solutions for businesses."
         />
         <meta
           name="keywords"

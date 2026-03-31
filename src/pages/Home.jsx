@@ -6,7 +6,7 @@ import ServicesSection from "../components/HomeSections/ServicesSection";
 import TechSection from "../components/HomeSections/TechSection";
 import BlogSection from "../components/HomeSections/BlogSection";
 import OurWork from "../components/HomeSections/OurWork";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 function Home() {
   return (
     <React.Fragment>

@@ -19,7 +19,7 @@ function AboutActualDo() {
           <div className="col-md-6">
             <img
               className="img-fluid"
-              src="../../public/images/about.png"
+              src="../../images/about.png"
               alt="backgrand image"
             />
           </div>
