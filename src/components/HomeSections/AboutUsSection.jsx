@@ -1,5 +1,5 @@
 import Content_text from "../Content/ContentText";
-import Heading5 from "../HeadingTitle/heading5";
+import Heading5 from "../HeadingTitle/Heading5";
 import LinkBtn from "../common/LinkBtn";
 function AboutUsSection() {
   return (

@@ -1,4 +1,4 @@
-import Heading5 from "../HeadingTitle/heading5";
+import Heading5 from "../HeadingTitle/Heading5";
 import ContentText from "../Content/ContentText";
 function BlogsSecttion() {
   return (
