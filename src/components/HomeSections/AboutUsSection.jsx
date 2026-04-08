@@ -18,7 +18,7 @@ function AboutUsSection() {
                 </div>
                 <Content_text
                   contentClass={"content"}
-                  content={`Engitech is the partner of choice for many of the world's
+                  content={`App planter is the partner of choice for many of the world's
                   leading enterprises, SMEs and technology challengers. We help
                   businesses elevate their value through custom software
                   development, product design, QA and consultancy services.`}

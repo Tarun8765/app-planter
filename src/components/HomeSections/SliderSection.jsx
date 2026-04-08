@@ -16,9 +16,7 @@ function SliderSection() {
                 </div>
               </div>
 
-              <Content_text
-                content={`We are 100+ professional software engineers with more than 10 years of experience in delivering superior products.`}
-              />
+              <Content_text />
               <div className="read_more_btn">
                 <Button
                   className={
