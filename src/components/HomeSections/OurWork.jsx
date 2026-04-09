@@ -11,8 +11,16 @@ function OurWork() {
           {image_Url?.image_Url?.map((item, index) => {
             return (
               <div key={index} className="col-md-3 col-12 col-sm-6 gy-5 gx-5">
-                <Link className="animated_image d-block" to="#" target="blank">
-                  <img src={item.url} alt="animate" className="img-fluid " />
+                <Link
+                  className="animated_image d-block"
+                  to={item.Externa_url}
+                  target="blank"
+                >
+                  <img
+                    src={item.url_path}
+                    alt="animate"
+                    className="img-fluid "
+                  />
                   <span className="overlay"></span>
                 </Link>
               </div>

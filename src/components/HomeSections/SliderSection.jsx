@@ -9,14 +9,18 @@ function SliderSection() {
             <div className="banner_content_wrapper">
               <div className="banner_heading_wrapper">
                 <div className="banner_sub_heading">
-                  // Fully Cycle Software Development
+                  // We Build Digital Products That Drive Real Growth
                 </div>
                 <div className="banner_heading">
                   <h1>FROM IDEA TO PRODUCT</h1>
                 </div>
               </div>
 
-              <Content_text />
+              <Content_text
+                content={
+                  "We design and develop powerful websites, mobile apps, and digital products to grow your business."
+                }
+              />
               <div className="read_more_btn">
                 <Button
                   className={
